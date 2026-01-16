@@ -1,0 +1,1 @@
+export const secret_key = '1232dgdgddg';
